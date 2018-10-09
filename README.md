@@ -7,12 +7,12 @@ Use this style sheet for layout. Place brand styles such as colours in website s
 
 Import stylesheet into website styles:
 '''
-@import 'https://rothgov.github.io/naked-tachyons/css/naked-tachyons.min.css';
+@import 'https://rothgov.github.io/tachyons/css/style.css';
 '''
 
 Or
 
 Add link to stylesheet in website head:
 '''
-<link rel="stylesheet" href="https://rothgov.github.io/naked-tachyons/css/naked-tachyons.min.css"/>
+<link rel="stylesheet" href="https://rothgov.github.io/tachyons/css/style.css"/>
 '''
