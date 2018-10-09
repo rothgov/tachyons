@@ -1,4 +1,4 @@
-# naked-tachyons
+# Tachyons
 Tachyons functional CSS with colour files commented out.
 
 Use this style sheet for layout. Place brand styles such as colours in website style sheet.
